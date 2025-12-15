@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Summarize Text",
+    "content": "Summarize the following text:"
+  },
+  {
+    "id": 2,
+    "title": "Explain Like I’m Five",
+    "content": "Explain this concept in very simple terms:"
+  }
+]
